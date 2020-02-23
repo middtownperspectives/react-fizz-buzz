@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Abel&display=swap');
+
+html, body {
+  font-family: 'Abel';
+}
+
+.App {
+  text-align: center;
+}
+
+.page {
+  background-color: #3b4d61;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
