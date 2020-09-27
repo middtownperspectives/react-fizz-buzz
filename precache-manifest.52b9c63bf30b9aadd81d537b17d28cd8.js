@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6455c5bac38d9883451006d6950472c8",
+    "revision": "c811a10bc6f781826c3c861615709e67",
     "url": "/react-fizz-buzz/index.html"
   },
   {
-    "revision": "e2649ebb1dbbdb3ab851",
-    "url": "/react-fizz-buzz/static/css/main.976dc4fc.chunk.css"
+    "revision": "c56d494a6eccdb84d599",
+    "url": "/react-fizz-buzz/static/css/main.3c2f8f12.chunk.css"
   },
   {
     "revision": "ef4b01f82429bb3ed8dc",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-fizz-buzz/static/js/2.732cb62a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2649ebb1dbbdb3ab851",
-    "url": "/react-fizz-buzz/static/js/main.4681a3fa.chunk.js"
+    "revision": "c56d494a6eccdb84d599",
+    "url": "/react-fizz-buzz/static/js/main.183aed93.chunk.js"
   },
   {
     "revision": "2e74b430b4991f32a028",
