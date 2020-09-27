@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-fizz-buzz/static/css/main.f1cd3821.chunk.css",
+    "main.css": "/react-fizz-buzz/static/css/main.976dc4fc.chunk.css",
     "main.js": "/react-fizz-buzz/static/js/main.4681a3fa.chunk.js",
     "main.js.map": "/react-fizz-buzz/static/js/main.4681a3fa.chunk.js.map",
     "runtime-main.js": "/react-fizz-buzz/static/js/runtime-main.5d72a399.js",
@@ -8,15 +8,15 @@
     "static/js/2.732cb62a.chunk.js": "/react-fizz-buzz/static/js/2.732cb62a.chunk.js",
     "static/js/2.732cb62a.chunk.js.map": "/react-fizz-buzz/static/js/2.732cb62a.chunk.js.map",
     "index.html": "/react-fizz-buzz/index.html",
-    "precache-manifest.c1b67ecdfa16d982fb0dd88ac7b0fa36.js": "/react-fizz-buzz/precache-manifest.c1b67ecdfa16d982fb0dd88ac7b0fa36.js",
+    "precache-manifest.b7504ce8751a14019ab843af65640745.js": "/react-fizz-buzz/precache-manifest.b7504ce8751a14019ab843af65640745.js",
     "service-worker.js": "/react-fizz-buzz/service-worker.js",
-    "static/css/main.f1cd3821.chunk.css.map": "/react-fizz-buzz/static/css/main.f1cd3821.chunk.css.map",
+    "static/css/main.976dc4fc.chunk.css.map": "/react-fizz-buzz/static/css/main.976dc4fc.chunk.css.map",
     "static/js/2.732cb62a.chunk.js.LICENSE.txt": "/react-fizz-buzz/static/js/2.732cb62a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5d72a399.js",
     "static/js/2.732cb62a.chunk.js",
-    "static/css/main.f1cd3821.chunk.css",
+    "static/css/main.976dc4fc.chunk.css",
     "static/js/main.4681a3fa.chunk.js"
   ]
 }
